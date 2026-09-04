@@ -1,0 +1,33 @@
+# Logs
+logs/
+*.log
+
+# Output directories
+output/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Backup files
+*.bak
+*.backup
+
+# API keys (additional safety)
+*_api_keys.yaml
+
+# Python cache
+__pycache__/
+*.py[cod]
+.tools.conf.backup
+.freebuff/
